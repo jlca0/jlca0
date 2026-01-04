@@ -24,7 +24,7 @@ The three of them attempt to provide **reliable, efficient and transparent code*
 Soy Jose, graduado en **Matemáticas** con interés principal en **computación científica** y **simulación de datos**.
 He desarrollado y compartido diversos proyectos relacionados, estructurados como librerías y programados desde cero (*first principles*). A destacar:
 
-* **Scientific_Computing**: Un solver basado en Python/C++ para **EDPs** (y algunas EDOs) que abarca desde la clásica Ecuación del Calor hasta las Ecuaciones de Aguas Someras con Fondo no Plano. Utiliza **matrices dispersas**, **descomposición de dominios** y técnicas de **programación paralela** con `Scipy.Sparse` y `OpenMP`.
+* **Scientific_Computing**: Un solver basado en Python/C++ para **EDPs** (y algunas EDOs) que abarca desde la clásica Ecuación del Calor hasta las Ecuaciones de Aguas Someras con Fondo no Plano. Utiliza **matrices vacías**, **descomposición de dominios** y técnicas de **programación paralela** con `Scipy.Sparse` y `OpenMP`.
 * **Regression_Models**: Una suite en Python/C++ para resolver **Regresión Lineal Múltiple** y **Regresión Logística**. Su estabilidad se basa en el **método de reflexión de Householder** y el **algoritmo de Hager**, escritos (y paralelizados) desde cero en C++ e integrados en Python. Incluye una GUI básica de prueba.
 * **Counter_Machine**: Una implementación práctica de la **Máquina de Contador de Minsky**, equivalente a la Máquina de Turing. Incluye un **IDE primitivo** con herramientas de depuración y ejemplos de código.
 
